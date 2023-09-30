@@ -157,6 +157,7 @@ h6 {
 .nav-menu>ul>li {
   position: relative;
   white-space: nowrap;
+  width: 270px;
 }
 
 .nav-menu a,
@@ -182,7 +183,9 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #173b6c;
+  color: white;
+  background: #4f81bd;
+  border-radius: 8px;
 }
 
 .nav-menu a:hover i,
