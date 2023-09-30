@@ -1080,9 +1080,12 @@ section {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 275px;
   z-index: 9999;
   background: #4f81bd;
+  margin-left: 14px;
+  border-radius: 10px;
+  margin-bottom: 16px;
 }
 
 #footer .copyright {
